@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Semen Padang FC Club
+- 🌱 I’m currently learning Flutter, Javascript
+- 👯 I’m looking to collaborate on JS Framework
+- 🤔 I’m looking for help with Dart
+- 💬 Ask me about Vue.js / Nuxt.js
+- 📫 How to reach me: @wandriputra
+
 <!--
 **wandriputra/wandriputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
