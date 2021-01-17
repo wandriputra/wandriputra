@@ -12,10 +12,9 @@
 <!-- TWITTER:START -->
 - [wndrptra: gak kebayang trump kalau bukak HP mau ngapain lagi 🤔](https://twitter.com/wndrptra/status/1348212772249640961)
 - [wndrptra: RT @techinsider: Check out these grippers that can lift massive rocks](https://twitter.com/wndrptra/status/1348211618874679298)
+- [@techinsider: Check out these grippers that can lift massive rocks](https://twitter.com/techinsider/status/1348210974587805696)
 - [wndrptra: RT @txtdrpemerintah:](https://twitter.com/wndrptra/status/1347816924059615233)
-- [wndrptra: RT @SemenpadangFCID: Kebanggaan Ranah Minang](https://twitter.com/wndrptra/status/1341713841944547329)
-- [wndrptra: Replica of Fantasy Premiere Leage in @SemenpadangFCID Apss. which user can build his own dream teams.
-#KabauSirah #SemenPadangFC #lambuikSanak #semenpadangfc #flutterdev  #reactnative #flutter](https://twitter.com/wndrptra/status/1341262656288608261)
+- [@txtdrpemerintah:](https://twitter.com/txtdrpemerintah/status/1347573857377349633)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
