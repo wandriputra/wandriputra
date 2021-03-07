@@ -10,7 +10,7 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat Mar 06 2021](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Sun Mar 07 2021](https://rss.app)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
